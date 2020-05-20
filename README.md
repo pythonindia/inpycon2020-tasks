@@ -75,9 +75,10 @@ Volunteer Lead: Amol Kahat
   
 ### Content
 
-- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fmentorship)
+- [Github Issues](https://github.com/pythonindia/inpycon-blog/issues/)
 - Members
   * Vipul Gupta (C)
+  * Nikhil Maan
 
 ### Platform
 
