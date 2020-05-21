@@ -2,49 +2,99 @@
 
 ## Working Groups
 
+Conference Chair: Sayan Chowdhury
+Confernce Co-Chairs: TBD
+Volunteer Lead: Amol Kahat
+
+
+### Code of Conduct
+
+- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Faccessibility)
+- Members
+  * Sayan Chowdhury (C)
+  * Saptak Sengupta
+  * Neha Kandpal
+
 
 ### Accessibility
 
-- Chair: TBD
-- Co-Chair: TBD
 - [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Faccessibility)
-
-
-### AV
-
-- Chair: TBD
-- Co-Chair: TBD
-- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fav)
-
-### Billing
-
-- Chair: TBD
-- Co-Chair: TBD
-- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fbilling)
-
+- Members
+  * Saptak Sengupta (C)
+  
 ### CFP (Call For Proposal)
 
-- Chair: Kumar Anirudha (@anistark)
-- Co-Chair: TBD
 - [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fcfp)
-
-### Content
-
-- Chair: TBD
-- Co-Chair: TBD
-- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fcontent)
-
+- Members:
+  * Kumar Anirudha (C)
+  * Ritesh Agarwal (CC)
+  * Arun Teja Godavarthi
+  * Sayan Chowdhury
+  * Abhishek Mishra
+  
 ### Design
 
-- Chair: TBD
-- Co-Chair: TBD
 - [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fdesign)
+- Members
+  * Saptak Sengupta (C)
+  * Siddharth Simharaju
+  * Aravind Sekar
+  * Gururaj
 
-### Dev Sprint
+### Social Media
 
-- Chair: TBD
-- Co-Chair: TBD
+- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fsocial-media)
+- Members
+  * Rayan Das
+  * Pradhvan Bisht
+  * Abhishek Mishra
+
+### Dev Sprint/Workshops
 - [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fdevsprint)
+- Members 
+  * Ananyo Maiti (C)
+  * Ritesh Agarwal
+  * Sayan Chowdhury
+
+### Mentorship/Editorial
+
+- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fmentorship)
+- Members
+  * Vipul Siddharth (C)
+  * Chandan Kumar
+  * Ananyo Maiti
+  * Sayan Chowdhury
+  
+### Review Panel
+
+- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fmentorship)
+- Members
+  * Ritesh Agarwal (C)
+  * Neha Kandpal
+  * Sayan Chowdhury
+  
+### Content
+
+- [Github Issues](https://github.com/pythonindia/inpycon-blog/issues/)
+- Members
+  * Vipul Gupta (C)
+  * Nikhil Maan
+
+### Platform
+
+- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fmentorship)
+- Members
+  * Chandan Kumar (C)
+  * Sayan Chowdhury
+
+### Technology
+
+- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Ftechnology)
+- Members
+  * Nabarun Pal (C)
+  * Saptak Sengupta (CC)
+  * Gaurav Kumar
+  * Sayan Chowdhury
 
 ### Diversity
 
@@ -52,29 +102,13 @@
 - Co-Chair: TBD
 - [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fdiversity)
 
-### Local Logistics
 
-- Chair: Ritesh Agarwal
-- Co-Chair: TBD
-- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Flocal-logistics)
-
-### Mentorship
+## To be decided later
+### Billing
 
 - Chair: TBD
 - Co-Chair: TBD
-- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fmentorship)
-
-### Review Panel
-
-- Chair: TBD
-- Co-Chair: TBD
-- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Freview-panel)
-
-### Social Media
-
-- Chair: TBD
-- Co-Chair: TBD
-- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fsocial-media)
+- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fbilling)
 
 ### Sponsorship
 
@@ -82,11 +116,6 @@
 - Co-Chair: TBD
 - [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fsponsorship)
 
-### Technology
-
-- Chair: TBD
-- Co-Chair: TBD
-- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Ftechnology)
 
 ### Tickets
 
