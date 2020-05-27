@@ -2,9 +2,9 @@
 
 ## Working Groups
 
-Conference Chair: Sayan Chowdhury
-Confernce Co-Chairs: TBD
-Volunteer Lead: Amol Kahat
+Conference Chair: Sayan Chowdhury  
+Confernce Co-Chairs: TBD  
+Volunteer Lead: Amol Kahat  
 
 
 ### Code of Conduct
