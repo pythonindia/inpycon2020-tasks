@@ -123,3 +123,34 @@ Volunteer Lead: Amol Kahat
 - Co-Chair: TBD
 - [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Ftickets)
 
+## Timeline
+### TLDR;
+* Sponsership going live on 31st July, 2020.
+* Schedule shall be released on 1st September 2020.
+* Talks will be presented on 2nd and 3rd October 2020.
+* CFP closes on 14th August 2020
+* Ticket sales going live on <>.
+* Ticket sales closing date on <>.
+
+### Below is the milestones of various tasks:
+| **Workgroup** | **Deadline** |**Objective** |
+|---|---|---|
+|CFP       |30th June, 2020 | 60|
+|          |10th July, 2020|100|
+|          |20th July, 2020|150|
+|          |30th July, 2020|210|
+|          |10th August, 2020|280|
+|Content|||
+|Mentorship|30th June, 2020|10|
+|          |10th July, 2020|25|
+|          |20th July, 2020|45|
+|          |30th July, 2020 |70|
+|Platform|||
+|Reviewer|30th June, 2020|15|
+|        |10th July, 2020|30|
+|        |20th July, 2020|50|
+|Social Media|||
+|Sponsorship|30th July,2020|Going Live|
+|Technology|||
+|Volunteers|||
+|Website & Design|||
