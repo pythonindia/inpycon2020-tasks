@@ -132,7 +132,14 @@ Volunteer Lead: Amol Kahat
 * Ticket sales going live on <>.
 * Ticket sales closing date on <>.
 
-### Below is the milestones of various tasks:
+## WG Meeting Time
+| **Workgroup** | **Meeting Timee** |**Meeting Link** |
+|---|---|---|
+|Weekly Standup (All WGs)      | Every Friday, 10:00 IST| https://meet.google.com/hoi-hvja-jho |
+
+
+
+## Below is the milestones of various tasks:
 | **Workgroup** | **Deadline** |**Objective** |
 |---|---|---|
 |CFP       |30th June, 2020 | 60|
