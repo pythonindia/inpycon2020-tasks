@@ -137,6 +137,7 @@ Volunteer Lead: Amol Kahat
 |---|---|---|
 |Weekly Standup (All WGs)      | Every Friday, 22:00 IST| https://meet.google.com/hoi-hvja-jho |
 |Weekly CFP WG Call      | Every Wednessday, 22:00 IST| https://meet.google.com/kbk-nfza-taj |
+|Weekly Content WG Call      | Every Thursday, 22:00 IST| https://meet.google.com/tof-ffxt-bpr |
 
 
 
