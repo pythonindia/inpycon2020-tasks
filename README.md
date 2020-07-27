@@ -135,7 +135,8 @@ Volunteer Lead: Amol Kahat
 ## WG Meeting Time
 | **Workgroup** | **Meeting Timee** |**Meeting Link** |
 |---|---|---|
-|Weekly Standup (All WGs)      | Every Friday, 10:00 IST| https://meet.google.com/hoi-hvja-jho |
+|Weekly Standup (All WGs)      | Every Friday, 22:00 IST| https://meet.google.com/hoi-hvja-jho |
+|Weekly CFP WG Call      | Every Wednessday, 22:00 IST| https://meet.google.com/kbk-nfza-taj |
 
 
 
