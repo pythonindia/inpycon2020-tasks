@@ -1,100 +1,107 @@
 # PyCon India 2020
 
+Organising Team Weekly Standup: Every Friday, 22:00 IST on https://meet.google.com/hoi-hvja-jho
+
 ## Working Groups
 
-Conference Chair: Sayan Chowdhury  
-Confernce Co-Chairs: TBD  
-Volunteer Lead: Amol Kahat  
-
-
-### Code of Conduct
-
-- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Faccessibility)
-- Members
-  * Sayan Chowdhury (C)
-  * Saptak Sengupta
-  * Neha Kandpal
-
+Conference Chair: Sayan Chowdhury
+Conference Co-Chairs: TBD
+Volunteer Lead: Amol Kahat
 
 ### Accessibility
 
 - [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Faccessibility)
 - Members
-  * Saptak Sengupta (C)
-  
-### CFP (Call For Proposal)
+  * TBD
+
+### CFP (Call For Proposals)
 
 - [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fcfp)
-- Members:
-  * Kumar Anirudha (C)
-  * Ritesh Agarwal (CC)
+- Meeting: Every Wednesday, 22:00 IST on https://meet.google.com/kbk-nfza-taj
+- Chair: Kumar Anirudha
+- Co-chair: Ritesh Agarwal
+- Members
   * Arun Teja Godavarthi
   * Sayan Chowdhury
   * Abhishek Mishra
-  
+
+### Content
+
+- [Github Issues](https://github.com/pythonindia/inpycon-blog/issues/)
+- Meeting: Every Thursday, 22:00 IST at https://meet.google.com/tof-ffxt-bpr
+- Chair: Vipul Gupta
+- Members
+  * Nikhil Maan
+
+### Dev Sprint/Workshops
+- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fdevsprint)
+- Chair: Ananyo Maiti
+- Members
+  * Ritesh Agarwal
+  * Sayan Chowdhury
+
 ### Design
 
 - [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fdesign)
+- Chair: Ananyo Maiti
 - Members
-  * Saptak Sengupta (C)
   * Siddharth Simharaju
   * Aravind Sekar
   * Gururaj
 
-### Social Media
-
-- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fsocial-media)
-- Members
-  * Rayan Das
-  * Pradhvan Bisht
-  * Abhishek Mishra
-
-### Dev Sprint/Workshops
-- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fdevsprint)
-- Members 
-  * Ananyo Maiti (C)
-  * Ritesh Agarwal
-  * Sayan Chowdhury
-
 ### Mentorship/Editorial
 
 - [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fmentorship)
+- Chair: Vipul Siddharth
 - Members
-  * Vipul Siddharth (C)
-  * Chandan Kumar
-  * Ananyo Maiti
   * Sayan Chowdhury
-  
-### Review Panel
-
-- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fmentorship)
-- Members
-  * Ritesh Agarwal (C)
-  * Neha Kandpal
-  * Sayan Chowdhury
-  
-### Content
-
-- [Github Issues](https://github.com/pythonindia/inpycon-blog/issues/)
-- Members
-  * Vipul Gupta (C)
-  * Nikhil Maan
+  * Abhishek Mishra
 
 ### Platform
 
-- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fmentorship)
+- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fplatform)
 - Members
   * Chandan Kumar (C)
   * Sayan Chowdhury
 
+### Review
+
+- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Freview)
+- Chair: Ritesh Agarwal
+- Members
+  * Neha Kandpal
+  * Sayan Chowdhury
+
+### Social Media
+
+- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fsocial-media)
+- Chair: Pradhvan Bisht
+- Co-chairs: Rayan Das, Abhishek Mishra
+- Members
+  * TBD
+
+### Sponsorship
+
+- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fsponsorship)
+- Chair: Sayan Chowdhury (@sayanchowdhury)
+- Co-chair: TBD
+
 ### Technology
 
 - [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Ftechnology)
+- Chair: Nabarun Pal
 - Members
-  * Nabarun Pal (C)
-  * Saptak Sengupta (CC)
   * Gaurav Kumar
   * Sayan Chowdhury
+  * Abhishek Mishra
+
+## WGs being formed
+
+### Billing
+
+- Chair: TBD
+- Co-Chair: TBD
+- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fbilling)
 
 ### Diversity
 
@@ -102,34 +109,29 @@ Volunteer Lead: Amol Kahat
 - Co-Chair: TBD
 - [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fdiversity)
 
-
-## To be decided later
-### Billing
-
-- Chair: TBD
-- Co-Chair: TBD
-- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fbilling)
-
-### Sponsorship
-
-- Chair: Sayan Chowdhury (@sayanchowdhury)
-- Co-Chair: TBD
-- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fsponsorship)
-
-
 ### Tickets
 
 - Chair: TBD
 - Co-Chair: TBD
 - [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Ftickets)
 
+## Committees
+
+### Code of Conduct
+
+- [Github Issues](https://github.com/pythonindia/inpycon2020-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fcode-of-conduct)
+- Head: Sayan Chowdhury
+- Members
+  * Saptak Sengupta
+  * Neha Kandpal
+
 ## Timeline
 ### TLDR;
-* Sponsership going live on 31st July, 2020.
+* Sponsorship going live on 31st July, 2020.
+* Ticket sales going live on 17th August 2020.
+* CFP closes on 19th August 2020
 * Schedule shall be released on 1st September 2020.
 * Talks will be presented on 2nd and 3rd October 2020.
-* CFP closes on 14th August 2020
-* Ticket sales going live on <>.
 * Ticket sales closing date on <>.
 
 ## WG Meeting Time
