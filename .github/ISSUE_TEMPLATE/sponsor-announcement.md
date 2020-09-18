@@ -1,7 +1,7 @@
 ---
 name: Announce Sponsor
 about: Umbrella issue template for announcing a sponsor
-title: ''
+title: 'Announce <SPONSOR NAME> as <PLATINUM|GOLD|SILVER|STARTUP> SPONSOR'
 labels: ''
 assignees: ''
 
